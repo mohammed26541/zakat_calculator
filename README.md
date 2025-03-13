@@ -35,4 +35,4 @@
 
 🔹 **أحدث إصدار متاح الآن!** يمكنك تحميل التطبيق مباشرةً من GitHub 👇
 
-[![Download APK](https://img.shields.io/badge/📲%20Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/username/repository/releases/latest/download/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download%20APK-Click%20Here-brightgreen?style=for-the-badge&logo=android)](https://github.com/mohammed26541/zakat_calculator/releases/download/v1.0.0/app-release.apk)
